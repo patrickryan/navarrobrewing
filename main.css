@@ -8,5 +8,11 @@ body {
 
 p {
   color: white;
-  padding: 20px;
+  text-align: center;
+}
+
+.logo {
+  display: block;
+  margin: 150px auto;
+  width: 70%;
 }
